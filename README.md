@@ -37,8 +37,8 @@ The project involved preparing **Software Requirements Specifications (SRS)**, *
 
 ### 📑 **SRS Documents**  
 - [Mobile App SRS](https://docs.google.com/document/d/12utKFgaa06VYfBe0HczlBWMovM6EMOisGdCn2gbKmHQ/)  
-- [Web App SRS](https://docs.google.com/document/d/12utKFgaa06VYfBe0HczlBWMovM6EMOisGdCn2gbKmHQ/)  
-- [Admin Panel SRS](https://docs.google.com/document/d/12utKFgaa06VYfBe0HczlBWMovM6EMOisGdCn2gbKmHQ/)  
+- [Web App SRS](https://docs.google.com/document/d/12utKFgaa06VYfBe0HczlBWMovM6EMOisGdCn2gbKmHQ/edit?tab=t.hi6nzrg8ecg7)  
+- [Admin Panel SRS](https://docs.google.com/document/d/12utKFgaa06VYfBe0HczlBWMovM6EMOisGdCn2gbKmHQ/edit?tab=t.7hbpr31fnwhm)  
 
 ### 🎨 **Wireframes**  
 - [Mobile Wireframe](https://www.canva.com/design/DAGR34gANE4/tCxnLxig6BCb2mxglJzeYw/edit)  
