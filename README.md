@@ -1,4 +1,4 @@
-# -Gazara-Project
+# Gazara-Project
 Gazara Project – SRS, Wireframes, Test Cases & Jira (Team Project – Live)
 
 
